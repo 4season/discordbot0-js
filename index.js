@@ -23,7 +23,7 @@ const discordLogin = async() => {
 }
 
 
-discordLogin();
+discordLogin(process.env.TOKEN);
 
 
 client.on('ready', () => {
