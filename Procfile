@@ -1,0 +1,1 @@
+worker: discordbot-index.js
