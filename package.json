@@ -1,0 +1,7 @@
+{
+  "name": "discordbot0-js",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  }
+}
