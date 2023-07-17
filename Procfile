@@ -1,1 +1,2 @@
-web: yarn start:Main/discordbot-index.js
+web: npm start
+worker: node discordbot-index.js
