@@ -1,1 +1,1 @@
-web: yarn start:discordbot-index.js
+web: yarn start:Main/discordbot-index.js
