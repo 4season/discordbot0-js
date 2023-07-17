@@ -1,1 +1,1 @@
-worker: discordbot-index.js
+web: npm start
